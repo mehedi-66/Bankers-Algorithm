@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Bankers-Algorithm/static/css/main.2dd7ee0c.chunk.css",
+    "main.js": "/Bankers-Algorithm/static/js/main.ce59e870.chunk.js",
+    "main.js.map": "/Bankers-Algorithm/static/js/main.ce59e870.chunk.js.map",
+    "runtime-main.js": "/Bankers-Algorithm/static/js/runtime-main.10df64bd.js",
+    "runtime-main.js.map": "/Bankers-Algorithm/static/js/runtime-main.10df64bd.js.map",
+    "static/js/2.3f0059cc.chunk.js": "/Bankers-Algorithm/static/js/2.3f0059cc.chunk.js",
+    "static/js/2.3f0059cc.chunk.js.map": "/Bankers-Algorithm/static/js/2.3f0059cc.chunk.js.map",
+    "index.html": "/Bankers-Algorithm/index.html",
+    "static/css/main.2dd7ee0c.chunk.css.map": "/Bankers-Algorithm/static/css/main.2dd7ee0c.chunk.css.map",
+    "static/js/2.3f0059cc.chunk.js.LICENSE.txt": "/Bankers-Algorithm/static/js/2.3f0059cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10df64bd.js",
+    "static/js/2.3f0059cc.chunk.js",
+    "static/css/main.2dd7ee0c.chunk.css",
+    "static/js/main.ce59e870.chunk.js"
+  ]
+}
