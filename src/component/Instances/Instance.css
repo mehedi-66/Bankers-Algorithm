@@ -1,0 +1,13 @@
+.instanceInput{
+    width: 25px;
+    text-align: center;
+    padding: 2px;
+}
+.instanceHeading{
+    text-align: center;
+    font-weight: bold;
+    margin: 0px 0px 4px 0px;
+}
+.instanceContent{
+    margin: 0px 5px;
+}

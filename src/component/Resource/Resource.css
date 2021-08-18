@@ -1,0 +1,15 @@
+.resourse{
+
+}
+.resourse > p{
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0px 0px 3px 0px;
+}
+.resourse > button{
+    width: 17px;
+    margin: 2px 4px 0px 1px;
+}
+.resourse > span{
+
+}

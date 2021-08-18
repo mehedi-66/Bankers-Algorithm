@@ -1,0 +1,19 @@
+.alocationInput{
+    width: 25px;
+    text-align: center;
+    margin: 3px 2px 1px 1px;
+}
+.AlocationResource{
+    width: 22px;
+    display: inline-block;
+    text-align: center;
+    margin: 0px 0px 0px 16px;
+}
+.AlocationHeading{
+    margin: 6px 1px 6px 1px;
+    text-align: center;
+    font-weight: bold;
+}
+.AlocationBlock{
+  
+}

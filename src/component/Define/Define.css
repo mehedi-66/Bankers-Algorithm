@@ -1,0 +1,15 @@
+.options{
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    border-bottom: 1px solid rgb(240, 240, 240);
+  
+  }
+  .options-left{
+    display: flex;
+    width: 180px;
+    justify-content: space-around;
+  }

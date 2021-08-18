@@ -1,0 +1,8 @@
+.header{
+    text-align: center;
+    height: 46px;
+    background-color: #e3e3ff;
+}
+.header > h2{
+    padding: 9px;
+}

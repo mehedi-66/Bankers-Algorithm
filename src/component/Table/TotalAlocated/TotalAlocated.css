@@ -1,0 +1,8 @@
+.totalAlocation{
+    font-size: 13px;
+}
+.totalAlocatedNumber{
+    width: 24px;
+    display: inline-block;
+    margin: 4px 0px 0px 6px;
+}

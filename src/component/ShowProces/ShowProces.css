@@ -1,0 +1,11 @@
+.deadLock{
+    text-align: center;
+}
+.deadLockSpan{
+    font-size: 20px;
+    color: red;
+}
+.deadLockSafe{
+    font-size: 18px;
+    color: green;
+}

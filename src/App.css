@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.runButton{
+  display: block;
+  margin: 6px auto;
+  width: 59px;
+  padding: 5px;
+  background-color: #519a00;
+  color: white;
+  border: 1px solid gainsboro;
+  border-radius: 2px;
+  box-shadow: 1px 0px 4px #ddd;
+}
+.AlocationBlock{
+  width: 310px;
+  /* margin: 0 auto; */
+  text-align: center;
+}
+.ReadHeading{
+  color: red;
+  text-align: center;
+}
+.container{
+  display: flex;
+}
+.youtubeVide{
+  
+  border: 1px solid black;
+    margin: 200px auto;
+    display: block;
+    width: 559px;
+}
+.Footer{
+  height: 40px;
+  text-align: center;
+  background-color: #ddd;
+  color: black;
+  box-sizing: border-box;
+  padding: 5px;
+  font-size: 18px;
+}

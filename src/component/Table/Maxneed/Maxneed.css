@@ -1,0 +1,19 @@
+.MaxneedInput{
+    width: 25px;
+    text-align: center;
+    margin: 3px 2px 1px 1px;
+}
+.MaxneedResource{
+    width: 22px;
+    display: inline-block;
+    text-align: center;
+    margin: 0px 0px 0px 12px;
+}
+.MaxneedHeading{
+    margin: 6px 1px 6px 1px;
+    text-align: center;
+    font-weight: bold;
+}
+.Maxneed{
+    margin: 0px 8px 0px 13px;
+}
